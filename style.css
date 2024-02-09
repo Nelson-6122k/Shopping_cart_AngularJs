@@ -1,0 +1,35 @@
+.jumbotron{
+	color: white;
+	background: rgb(131,58,180);
+	background: linear-gradient(90deg, rgba(131,58,180,1) 14%, rgba(253,29,29,1) 64%, rgba(252,176,69,1) 100%);
+}
+
+#bg-background{
+	background-color:#fff;
+	padding:10px;
+	border-radius:5px;
+	margin-right: 25%;
+}
+#line{
+	margin-right: 25%;
+}
+
+#product{
+	padding:5px;
+	clear:both;
+}
+
+#p_list{
+	width:300px;
+	height:auto;
+	padding:5px;
+	border:1px solid #000;
+	float:left;
+	margin:15px;
+}
+
+#p_list img{
+	height:150px; 
+	width:150px;
+}
+
